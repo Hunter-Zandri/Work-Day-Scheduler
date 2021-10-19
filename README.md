@@ -1,7 +1,7 @@
-Work Day Sceduler
+
 This projects title is Work Day Scheduler and it is a website that I coded the javascript,html,css for using my new found coding skills so that it follows acceptance criteria.
 
-Lnguages
+Languages
 javascript css html
 
 Objective
@@ -29,6 +29,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page THEN the saved events persist
 
 What was learned
-I learned a lot more about how to use eventlisteners as well as various loops in javascript such as do while loops and switch case. I also learned a lot more on how to utilize local storage to store data and use the data later on in the program. I learned a lot more about how to use the moment library.
+I learned a lot more about how to use eventlisteners as well as various loops in javascript such as do while loops and switch case. I also learned a lot more on how to utilize local storage to store data and use the data later on in the program. 
 
 Project pictures/websitelink
+
+![image](https://user-images.githubusercontent.com/86785668/137823116-ad90b70f-fe02-43c0-9e14-d45d794c2d1b.png)
+
